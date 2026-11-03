@@ -1,0 +1,3 @@
+MONGO_DB_URI=mongodb://localhost:27017/todo
+JWT_SECRET=change_this_to_any_long_random_text
+ADMIN_KEY=relief-admin-2025
